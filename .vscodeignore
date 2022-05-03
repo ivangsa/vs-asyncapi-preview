@@ -1,0 +1,15 @@
+.vscode/**
+.vscode-test/**
+out/**
+node_modules/**
+!node_modules/@asyncapi/react-component/browser/standalone/index.js
+!node_modules/@asyncapi/react-component/styles/default.css
+src/**
+.gitignore
+.yarnrc
+webpack.config.js
+vsc-extension-quickstart.md
+**/tsconfig.json
+**/.eslintrc.json
+**/*.map
+**/*.ts
